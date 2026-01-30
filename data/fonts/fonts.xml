@@ -30,18 +30,22 @@
     <fallback font="Unicode Japanese" size="8" />
   </font>
 
+  <font name="ark-pixel-12px-zh_cn"
+        type="truetype"
+        file="ark-pixel-12px-monospaced-zh_cn.ttf"
+        antialias="false"
+        hinting="false" />
+
   <font name="Aseprite"
-        type="spritesheet"
-        descent="2"
-        file="aseprite_font.png">
-    <fallback font="Unicode" size="14" />
-  </font>
+        type="truetype"
+        file="ark-pixel-12px-monospaced-zh_cn.ttf"
+        antialias="false"
+        hinting="false" />
 
   <font name="Aseprite Mini"
-        type="spritesheet"
-        descent="1"
-        file="aseprite_mini.png">
-    <fallback font="Unicode" size="10" />
-  </font>
+        type="truetype"
+        file="ark-pixel-12px-monospaced-zh_cn.ttf"
+        antialias="false"
+        hinting="false" />
 
 </fonts>

@@ -17,4 +17,5 @@ tests/_test*
 build
 .build
 .deps
+.cache/
 CMakeSettings.json
